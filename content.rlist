@@ -1,0 +1,17 @@
+/Data
+https://github.com/leomovskii/iap-validation-service/blob/main/Data/AppDbContext.cs
+https://github.com/leomovskii/iap-validation-service/blob/main/Data/PurchaseRepository.cs
+
+/Models
+https://github.com/leomovskii/iap-validation-service/blob/main/Models/PurchaseRequest.cs
+
+/Properties
+https://github.com/leomovskii/iap-validation-service/blob/main/Properties/launchSettings.json
+
+/Routes
+https://github.com/leomovskii/iap-validation-service/blob/main/Routes/PurchaseRoutes.cs
+
+/Services
+https://github.com/leomovskii/iap-validation-service/blob/main/Services/AppleVerifier.cs
+https://github.com/leomovskii/iap-validation-service/blob/main/Services/GooglePlayVerifier.cs
+https://github.com/leomovskii/iap-validation-service/blob/main/Services/IStoreVerifier.cs
